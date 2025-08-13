@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Aditya 👋  
 
-<!--
-**adityyathakur13/adityyathakur13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd-year Electronics & Computer Engineering student at Thapar Institute  
+💻 Learning *Python, **Data Science, and **Machine Learning*  
+🔌 Exploring *IoT* and *embedded systems* for electronics projects  
+📂 Sharing my projects and experiments here on GitHub  
 
-Here are some ideas to get you started:
+## 🚀 Skills  
+- Python (Pandas, NumPy, Matplotlib, scikit-learn)  
+- C++ Basics  
+- Arduino & Tinkercad  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me  
+[LinkedIn](https://www.linkedin.com/in/aditya-thakur-63055137a/) | [Email](mailto:adityathakur4004@gmail.com)
+
